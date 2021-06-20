@@ -14,5 +14,5 @@ render out chess boards with red and blue queens on them, the only pieces are qu
 
 * queens on same diagonal should be “under attack”
 
-* queens with any other coordinates should NOT be “under attack”
+* queens with any other coordinates should NOT be “under attack”.
 
